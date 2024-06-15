@@ -1,0 +1,19 @@
+.card-pai {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.card-container {
+  display: flex;
+}
+
+.card-dia-semana {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 12px;
+  width: 200px;
+}
